@@ -1,0 +1,12 @@
+{
+    "name": "vrkansagara/google-auth",
+    "authors": [
+        {
+            "name": "Vallabh Kansagara",
+            "email": "vallabh.kansagara@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.2"
+    }
+}
